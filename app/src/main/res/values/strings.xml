@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android Mid Homework 15</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="id">Id</string>
+    <string name="price">Price</string>
+    <string name="discount_account">Discount_account</string>
 </resources>
